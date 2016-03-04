@@ -1,0 +1,12 @@
+{
+    "name": "react-side-effect",
+    "description": "Create components whose prop changes map to a global side effect",
+    "repos": "https://github.com/gaearon/react-side-effect.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "fbjs": "0.1.0-alpha.10"
+    },
+    "version": "0.3.2"
+}
